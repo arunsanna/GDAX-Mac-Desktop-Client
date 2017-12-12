@@ -22,6 +22,9 @@ Then cd into the directory and run the following commands
 I don't really expect you too but if you use the software and want to make a conrtibution here are some addresses, It may inspire me to work on it further.
 
 Ether: 0x9EB3136C0F84B164C27a943e948d1561F62F5B3A
+
 Bitcoin: 1McuQp3vLvqQA9sRbZFryzQi3d3kmuyXZE
+
 Litecoin: LXmWLPbB5tx7hegZRDFsKBHsyyqcTVkYK8
+
 Dash: XfiE5acjXx4WPZ7nZp7dPaWZ4aQksb7Pyx
