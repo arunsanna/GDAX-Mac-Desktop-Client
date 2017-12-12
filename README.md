@@ -11,7 +11,11 @@ clonne the repository
 Then cd into the directory and run the following commands
 
 `npm install --save-dev electron`
+
+
 `npm install electron-packager -g`
+
+
 `electron-packager . app --platform darwin --arch x64 --out dist/ --overwrite --icon icons/Mac_Icon.icns`
 
 ## Obligatory Crypto Address
