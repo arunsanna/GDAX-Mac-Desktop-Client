@@ -1,0 +1,24 @@
+{
+  "name": "GDAX-Desktop-Client",
+  "version": "1.0.0",
+  "description": "A GDAX Client for Mac",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/electron/electron-quick-start",
+  "keywords": [
+    "GDAX",
+    "Desktop",
+    "Cryptocurrency",
+    "Mac",
+    "Coinbase"
+  ],
+  "author": "Ben Moore",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.7.9",
+    "source-map-support":"^0.5.0",
+    "wurl":"^2.5.2"
+  }
+}
