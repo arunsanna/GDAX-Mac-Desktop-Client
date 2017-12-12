@@ -1,8 +1,10 @@
 # GDAX Mac Desktop Application
 A desktop client for GDAX for the Mac
 
+
+
 ## Installation
-To install it you can download the release or  build it yourself by following the instructions below
+To install it you can download the [release](https://github.com/himynameisbeni/GDAX-Mac-Desktop-Client/releases) or  build it yourself by following the instructions below
 
 clonne the repository
 
